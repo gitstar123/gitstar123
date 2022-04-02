@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gitstar123
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-end Web Development
+- 🌱 I’m currently learning Back-End WebDevelopment
 - 💞️ I’m looking to collaborate in future on related projects.
-- 📫 Email me at aryanarya43@outlook.com
+- 📫 Email me at aryanarya@aol.com
