@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web and App Development
 - 🌱 I’m currently learning Back-End Web Development
 - 💞️ I’m looking to collaborate in future on related projects.
-- 📫 Email me at aryanarya@aol.com
+- 📫 Email me at aryanarya43@outlook.com
